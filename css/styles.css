@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family:fantasy;
+}
+
+img {
+  border-radius: 50%;
+}
+h1 {
+  font-size: 250%;
+  color: #66BFBF;
+  font-weight: bold;
+  line-height: 2;
+}
+h2 {
+  font-size: 200%;
+  color: #66BFBF;
+  font-weight: normal;
+  font-weight: bold;
+}
+h3 {
+    color: #66BFBF;
+}
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 80px auto;
+
+}
+
+.topcontainer {
+  background-color: #CEE5D0;
+  padding-top: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+  font-weight: bold;
+
+}
+.h1{
+  top: 100px;
+}
+.bottomcloud {
+  position: absolute;
+  left: 500px;
+
+}
+.topcloud {
+  position: relative;
+  left: 200px;
+}
+.pinePic {
+  top: 10px;
+}
+.skill-row{
+  width: 58%;
+  margin: 0 auto;
+  line-height: 2;
+  text-align: left;
+}
+.codingcat {
+  float: left;
+  margin-right: 30px;
+}
+.businessgif {
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  background-color: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #f5ef96;
+  background-image: -webkit-linear-gradient(top, #f5ef96, #f7b671);
+  background-image: -moz-linear-gradient(top, #f5ef96, #f7b671);
+  background-image: -ms-linear-gradient(top, #f5ef96, #f7b671);
+  background-image: -o-linear-gradient(top, #f5ef96, #f7b671);
+  background-image: linear-gradient(to bottom, #f5ef96, #f7b671);
+  text-decoration: none;
+}
+.footer-link{
+  color: #11999E;
+
+}
+.rights{
+  color:#EAF6F6;
+}
+
+.bottom {
+  padding-top: 30px;
+  height: 120px;
+  background-color: #66BFBF;
+  position: relative;
+  top: 30px;
+}
+.boarderline {
+  style:
+}
